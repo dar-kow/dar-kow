@@ -1,6 +1,3 @@
-# 👋 Cześć, jestem Dariusz ;)
-
-
 ## 🧰 Technologie
 
 <!-- Odznaki technologii - od najnowszych do najstarszych -->
