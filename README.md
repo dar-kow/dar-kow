@@ -28,12 +28,12 @@
 
 ## 📌 Przypięte Repozytoria
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;" width="80%">
-  <a href="https://github.com/dar-kow/M-A-F" style="flex: 0 0 47%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=M-A-F&theme=radical" alt="M-A-F" width="100%">
+<div align="center">
+  <a href="https://github.com/dar-kow/M-A-F">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=M-A-F&theme=radical" alt="M-A-F" width="400px">
   </a>
-  <a href="https://github.com/dar-kow/Portfolio" style="flex: 0 0 47%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=Portfolio&theme=radical" alt="Portfolio" width="100%">
+  <a href="https://github.com/dar-kow/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=Portfolio&theme=radical" alt="Portfolio" width="400px">
   </a>
   
   <!-- You can add two more repositories here to complete the 2x2 grid
