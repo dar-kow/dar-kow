@@ -23,7 +23,7 @@
 
 <div align="center">
   <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dar-kow&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" /> -->
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=dar-kow&theme=react-dark&hide_border=true&height=500" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dar-kow&theme=react-dark&hide_border=true&height=500" />
 </div>
 
 ## 📌 Przypięte Repozytoria
