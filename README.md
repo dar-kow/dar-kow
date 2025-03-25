@@ -28,7 +28,7 @@
 
 ## 📌 Przypięte Repozytoria
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
   <a href="https://github.com/dar-kow/M-A-F">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=M-A-F&theme=radical" alt="M-A-F" width="400px">
   </a>
