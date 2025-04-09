@@ -49,6 +49,7 @@
 
 - [M-A-F](https://github.com/dar-kow/M-A-F) - Moja Aplikacja Faktur - React + .Net / Postgres oraz testy API w Playwright
 - [Portfolio](https://github.com/dar-kow/Portfolio) - Portfolio z efektami w stylu Matrix SPA z React
+- [Confluence Headers Manager](https://github.com/dar-kow/confluence-headers-manager-pro) - Zarządzanie i śledzenie nagłówków w rozbudowanych przestrzeniach dokumentów.
 - [SDET.pl](https://www.sdet.pl) - In progress
 
 <!-- Licznik odwiedzin -->
