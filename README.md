@@ -36,13 +36,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=Portfolio&theme=radical" alt="Portfolio" width="400px">
   </a>
   
-  <!-- You can add two more repositories here to complete the 2x2 grid
-  <a href="https://github.com/dar-kow/SDET.pl" style="flex: 0 0 48%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=SDET.pl&theme=radical" alt="SDET.pl" width="100%">
+  
+  <a href="https://github.com/dar-kow/maf-e2e-pw" style="flex: 0 0 48%; margin: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=maf-e2e-pw&theme=radical" alt="maf-e2e-pw" width="100%">
   </a>
-  <a href="https://github.com/dar-kow/API-Tests" style="flex: 0 0 48%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=API-Tests&theme=radical" alt="API Tests" width="100%">
-  </a> -->
+  <a href="https://github.com/dar-kow/candymapper-test-automation" style="flex: 0 0 48%; margin: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=candymapper-test-automation&theme=radical" alt="candymapper-test-automation" width="100%">
+  </a>
 </div>
 
 ## 🗂️ Moje Projekty
