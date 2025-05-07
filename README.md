@@ -37,11 +37,11 @@
   </a>
   
   
-  <a href="https://github.com/dar-kow/maf-e2e-pw" style="flex: 0 0 48%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=maf-e2e-pw&theme=radical" alt="maf-e2e-pw" width="100%">
+  <a href="https://github.com/dar-kow/maf-e2e-pw">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=maf-e2e-pw&theme=radical" alt="maf-e2e-pw" width="400px">
   </a>
-  <a href="https://github.com/dar-kow/candymapper-test-automation" style="flex: 0 0 48%; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=candymapper-test-automation&theme=radical" alt="candymapper-test-automation" width="100%">
+  <a href="https://github.com/dar-kow/candymapper-test-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=candymapper-test-automation&theme=radical" alt="candymapper-test-automation" width="400px">
   </a>
 </div>
 
