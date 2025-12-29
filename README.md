@@ -38,9 +38,9 @@
   <a href="https://github.com/dar-kow/maf-e2e-pw">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=maf-e2e-pw&theme=radical" alt="maf-e2e-pw" width="400px">
   </a>
-  <a href="https://github.com/dar-kow/k6-tests">
+  <!-- <a href="https://github.com/dar-kow/k6-tests">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=k6-tests&theme=radical" alt="k6-tests" width="400px">
-  </a>
+  </a> -->
   <a href="https://github.com/dar-kow/k6-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=k6-dashboard&theme=radical" alt="k6-dashboard" width="400px">
   </a>
