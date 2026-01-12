@@ -22,26 +22,44 @@
 </div>
 
 ## Pinned Repositories
-<div align="center">
-  <a href="https://github.com/dar-kow/cdat-pattern">
-    <img src="./profile/pin-cdat-pattern.svg" alt="cdat-pattern" width="400px">
-  </a>
-  <a href="https://github.com/dar-kow/demo-bi">
-    <img src="./profile/pin-demo-bi.svg" alt="demo-bi" width="400px">
-  </a>
-  <a href="https://github.com/dar-kow/M-A-F">
-    <img src="./profile/pin-maf.svg" alt="M-A-F" width="400px">
-  </a>
-  <a href="https://github.com/dar-kow/Portfolio">
-    <img src="./profile/pin-portfolio.svg" alt="Portfolio" width="400px">
-  </a>
-  <a href="https://github.com/dar-kow/maf-e2e-pw">
-    <img src="./profile/pin-maf-e2e-pw.svg" alt="maf-e2e-pw" width="400px">
-  </a>
-  <a href="https://github.com/dar-kow/k6-dashboard">
-    <img src="./profile/pin-k6-dashboard.svg" alt="k6-dashboard" width="400px">
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dar-kow/cdat-pattern">
+        <img src="./profile/pin-cdat-pattern.svg" alt="cdat-pattern">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dar-kow/demo-bi">
+        <img src="./profile/pin-demo-bi.svg" alt="demo-bi">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dar-kow/M-A-F">
+        <img src="./profile/pin-maf.svg" alt="M-A-F">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dar-kow/Portfolio">
+        <img src="./profile/pin-portfolio.svg" alt="Portfolio">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dar-kow/maf-e2e-pw">
+        <img src="./profile/pin-maf-e2e-pw.svg" alt="maf-e2e-pw">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dar-kow/k6-dashboard">
+        <img src="./profile/pin-k6-dashboard.svg" alt="k6-dashboard">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My Projects
 - [CDAT Pattern](https://github.com/dar-kow/cdat-pattern) - Components-Data-Actions-Tests: A modern 4-layer architecture for maintainable Playwright tests
