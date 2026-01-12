@@ -38,7 +38,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dar-kow&repo=cdat-pattern&theme=radical
+          options: username=dar-kow&repo=cdat-pattern&theme=radical&description_lines_count=3
           path: profile/pin-cdat-pattern.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,7 +46,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dar-kow&repo=demo-bi&theme=radical
+          options: username=dar-kow&repo=demo-bi&theme=radical&description_lines_count=3
           path: profile/pin-demo-bi.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -54,7 +54,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dar-kow&repo=M-A-F&theme=radical
+          options: username=dar-kow&repo=M-A-F&theme=radical&description_lines_count=3
           path: profile/pin-maf.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -62,7 +62,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dar-kow&repo=Portfolio&theme=radical
+          options: username=dar-kow&repo=Portfolio&theme=radical&description_lines_count=3
           path: profile/pin-portfolio.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -70,7 +70,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dar-kow&repo=maf-e2e-pw&theme=radical
+          options: username=dar-kow&repo=maf-e2e-pw&theme=radical&description_lines_count=3
           path: profile/pin-maf-e2e-pw.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -78,7 +78,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=dar-kow&repo=k6-dashboard&theme=radical
+          options: username=dar-kow&repo=k6-dashboard&theme=radical&description_lines_count=3
           path: profile/pin-k6-dashboard.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
