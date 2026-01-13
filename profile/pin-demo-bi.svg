@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A modern Business Intelligence system built using Next.js</tspan><tspan dy="1.2em" x="25">14 and TypeScript. This demo showcases an advanced BI</tspan><tspan dy="1.2em" x="25">solution with AI-powered analytics, interactive dashboards,...</tspan>
+      <tspan dy="1.2em" x="25">Modern BI system with Next.js 14 - analytics dashboards,</tspan><tspan dy="1.2em" x="25">KPI     tracking, AI-powered insights, ETL pipelines</tspan>
     </text>
 
     <g transform="translate(30, 75)">
