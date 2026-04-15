@@ -1,75 +1,158 @@
+<div align="center">
+  <img src="./profile/sdet-logo.svg" alt="SDET - LOAD *,8,1" width="100%" />
+</div>
+
+# Hi, I'm Dariusz 👋
+
+**AI-Powered Test Automation Architect · Software Engineer · AI Tooling Builder**
+
+I started by typing my first line of code on a Commodore 64.
+A few decades later I build autonomous AI systems for software testing
+and developer workflow automation.
+
+**My approach: Context before LLM.**
+Most "AI for QA" content says *"let AI write your tests"*.
+I do the opposite - deterministic context engineering first,
+LLMs second, only where they actually win.
+
+🇵🇱 Warsaw, Poland · 🌍 Available remote · ✉️ [kontakt@sdet.it](mailto:kontakt@sdet.it)
+
+---
+
 ## Tech Stack
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Languages & Runtimes**
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Testing & QA**
+
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![axe-core](https://img.shields.io/badge/-axe--core-663399?style=flat-square&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![k6](https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**AI / RAG / Agents**
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logoColor=white)
+![MLX](https://img.shields.io/badge/-MLX_(Apple)-000000?style=flat-square&logoColor=white)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
 
 ## GitHub Stats
+
 <div align="center">
   <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
   <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dar-kow&theme=react-dark&hide_border=true&height=500" alt="Activity Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dar-kow&theme=react-dark&hide_border=true&height=300" alt="Activity Graph" />
 </div>
 
+---
+
+<!--
 ## Pinned Repositories
+
 <table>
   <tr>
-    <td align="center">
+    <td>
+      <a href="https://github.com/dar-kow/sdet-wcag-toolkit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=sdet-wcag-toolkit&theme=react&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dar-kow/sdet-brain">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=sdet-brain&theme=react&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/dar-kow/cdat-pattern">
-        <img src="./profile/pin-cdat-pattern.svg" alt="cdat-pattern">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=cdat-pattern&theme=react&hide_border=true" />
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/dar-kow/demo-bi">
-        <img src="./profile/pin-demo-bi.svg" alt="demo-bi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=demo-bi&theme=react&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/dar-kow/M-A-F">
-        <img src="./profile/pin-maf.svg" alt="M-A-F">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=M-A-F&theme=react&hide_border=true" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/dar-kow/Portfolio">
-        <img src="./profile/pin-portfolio.svg" alt="Portfolio">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dar-kow/maf-e2e-pw">
-        <img src="./profile/pin-maf-e2e-pw.svg" alt="maf-e2e-pw">
-      </a>
-    </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/dar-kow/k6-dashboard">
-        <img src="./profile/pin-k6-dashboard.svg" alt="k6-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dar-kow&repo=k6-dashboard&theme=react&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
 
-## My Projects
-- [CDAT Pattern](https://github.com/dar-kow/cdat-pattern) - Components-Data-Actions-Tests: A modern 4-layer architecture for maintainable Playwright tests
-- [Demo BI](https://github.com/dar-kow/demo-bi) - Modern BI system with Next.js 14 featuring analytics dashboards, data management and AI-powered insights
-- [M-A-F](https://github.com/dar-kow/M-A-F) - My Invoice Application - React + .NET / Postgres with Playwright API tests
-- [Portfolio](https://github.com/dar-kow/Portfolio) - Matrix-style effects portfolio SPA built with React
-- [E2E UI Tests in Playwright - MAF](https://github.com/dar-kow/maf-e2e-pw) - UI tests for MAF application in Playwright / TypeScript
-- [k6-tests](https://github.com/dar-kow/k6-tests) - API performance tests with k6
-- [k6-dashboard](https://github.com/dar-kow/k6-dashboard) - Dashboard for k6 test results visualization - React + Express
-- [Confluence Headers Manager](https://github.com/dar-kow/confluence-headers-manager-pro) - Header management and tracking for large Confluence documentation spaces
-- [SDET.pl](https://www.sdet.pl) - In progress
+---
+-->
 
-![Profile views](https://komarev.com/ghpvc/?username=dar-kow&color=blueviolet)
+## What I'm building
+
+**Brand & Tooling**
+
+- 🔥 **[sdet-wcag-toolkit](https://github.com/dar-kow/sdet-wcag-toolkit)** - Static + dynamic + 5 AI specialists for WCAG 2.2 AA audits. AGPL-3.0.
+- 🧠 **[sdet-brain](https://github.com/dar-kow/sdet-brain)** - Persistent RAG for your Markdown corpus. Local-first MLX + Qdrant. 11 MCP tools.
+- 🌐 **[portfolio-v2](https://github.com/dar-kow/portfolio-v2)** - Astro 6 portfolio with /mcp, /llms.txt, per-article OG. EN + PL.
+
+**Patterns & References**
+
+- 🏗️ **[cdat-pattern](https://github.com/dar-kow/cdat-pattern)** - Components-Data-Actions-Tests. 4-layer architecture for maintainable Playwright tests.
+- 📊 **[demo-bi](https://github.com/dar-kow/demo-bi)** - Modern BI system with Next.js 14, analytics dashboards, AI-powered insights.
+- ⚡ **[k6-dashboard](https://github.com/dar-kow/k6-dashboard)** - React + Express dashboard for k6 performance test results.
+
+**Apps & Utilities**
+
+- 💼 **[M-A-F](https://github.com/dar-kow/M-A-F)** - Invoice app: React + .NET + PostgreSQL with Playwright API tests.
+- 🧪 **[maf-e2e-pw](https://github.com/dar-kow/maf-e2e-pw)** - E2E UI tests for M-A-F in Playwright + TypeScript.
+- 📈 **[k6-tests](https://github.com/dar-kow/k6-tests)** - API performance tests with k6.
+- 📝 **[Confluence Headers Manager](https://github.com/dar-kow/confluence-headers-manager-pro)** - Header management for large Confluence spaces.
+
+**Live**
+
+- 🚀 **[portfolio.sdet.it](https://portfolio.sdet.it)** - Case studies + "From the field" series (EN)
+- 🚀 **[portfolio.sdet.pl](https://portfolio.sdet.pl)** - PL mirror
+- 🌐 **[sdet.it](https://sdet.it)** - Services portal *(in progress)*
+
+---
+
+## Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.sdet.it-00ff41?style=flat-square)](https://portfolio.sdet.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dar--kow-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dar-kow)
+[![Email](https://img.shields.io/badge/Email-kontakt@sdet.it-D97757?style=flat-square&logo=gmail&logoColor=white)](mailto:kontakt@sdet.it)
+
+![Profile views](https://komarev.com/ghpvc/?username=dar-kow&color=00ff41)
